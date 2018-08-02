@@ -1,2 +1,1 @@
-wendi .  text
-this is test document
+wendi after test document
